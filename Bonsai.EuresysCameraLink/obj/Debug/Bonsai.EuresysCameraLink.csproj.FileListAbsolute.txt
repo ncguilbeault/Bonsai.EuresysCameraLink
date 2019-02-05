@@ -1,0 +1,15 @@
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\Bonsai.EuresysCameraLink.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\Bonsai.EuresysCameraLink.pdb
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\Bonsai.Core.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\OpenCV.Net.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\System.Reactive.Core.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\Bonsai.Core.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\OpenCV.Net.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\System.Reactive.Core.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\obj\Debug\Bonsai.EuresysCameraLink.csprojResolveAssemblyReference.cache
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\obj\Debug\Bonsai.EuresysCameraLink.dll
+C:\Users\Thiele Lab\Documents\Bonsai\Bonsai.EuresysCameraLink\Bonsai.EuresysCameraLink\obj\Debug\Bonsai.EuresysCameraLink.pdb
