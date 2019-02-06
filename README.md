@@ -7,7 +7,7 @@ Once the connection between the card and the camera has been established, open u
 After adding the folder path to the list of available package sources, look for the EuresysCameraLink package in online packages and click to install the package.
 
 ## Usage
-After installing the EuresysCameraLink Bonsai package, a ***EuresysFrameGrabber*** source node will become available to add to your workflows. 
+After installing the EuresysCameraLink Bonsai package, a **EuresysFrameGrabber** source node will become available to add to your workflows. 
 If everything has been installed correctly, you will now be able to acquire frames from your camera within Bonsai.
 
 ### Notes:
