@@ -11,5 +11,5 @@ After installing the EuresysCameraLink Bonsai package, a ***EuresysFrameGrabber*
 If everything has been installed correctly, you will now be able to acquire frames from your camera within Bonsai.
 
 ### Notes:
-This was originally developed for the [Euresys GrabLink FUll XR](https://www.euresys.com/Products/Frame-Grabbers/Grablink-series/Grablink-Full-XR) and the [Sentech STC-CMB200PCL](http://www.sentechamerica.com/En/Cameras/CameraLink/STC-CMB200PCL).
+This was originally developed for the [Euresys GrabLink Full XR](https://www.euresys.com/Products/Frame-Grabbers/Grablink-series/Grablink-Full-XR) and the [Sentech STC-CMB200PCL](http://www.sentechamerica.com/En/Cameras/CameraLink/STC-CMB200PCL).
 Since I have not tested other camera and board configurations, I cannot ensure that this package will work with your board and camera setup. However, I encourage you to try it out anyways to see if it works.
